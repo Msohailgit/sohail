@@ -1,0 +1,22 @@
+
+
+.navbar-header .navbar-brand{
+	color:black;
+	font-size:2em;
+}
+#id1{
+	background-color:gray;
+	margin-right:20px;
+	margin-left:20px;
+}
+#wraper{
+	background-color:gray;
+}
+.nav.navbar-nav{
+	background-color:white;
+	color:black;
+}
+.nav.navbar-nav li a{
+	
+	color:black;
+}
