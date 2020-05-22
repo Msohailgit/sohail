@@ -1,5 +1,4 @@
 
-
 .navbar-header .navbar-brand{
 	color:black;
 	font-size:2em;
@@ -11,12 +10,24 @@
 }
 #wraper{
 	background-color:gray;
+
+	
 }
-.nav.navbar-nav{
-	background-color:white;
-	color:black;
-}
-.nav.navbar-nav li a{
+
+.nav.navbar-nav li{
 	
 	color:black;
+	border-bottom:2px solid black;
+	
+	
 }
+
+@media (max-width:767px){
+  #myNavbar{
+background-color:white;
+border:none;
+}
+
+}
+
+
