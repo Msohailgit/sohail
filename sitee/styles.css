@@ -10,10 +10,11 @@
 }
 #wraper{
 	background-color:gray;
-
 	
 }
-
+#navbarinverse{
+	border-style:none;
+}
 .nav.navbar-nav li{
 	
 	color:black;
@@ -25,7 +26,8 @@
 @media (max-width:767px){
   #myNavbar{
 background-color:white;
-border:none;
+
+
 }
 
 }
